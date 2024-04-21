@@ -14,4 +14,3 @@ Meu site pessoal, desenvolvido usando tecnologias web modernas, é um espaço on
 * Exemplo de trabalho:Mostro um exemplo do meu trabalho
 
 * Redes Sociais: Fique à vontade para se conectar comigo através das redes sociais, onde compartilho atualizações sobre meu trabalho, insights técnicos e muito mais.
-* 
