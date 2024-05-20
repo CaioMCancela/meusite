@@ -1,7 +1,3 @@
-
-  <img src="https://i.ibb.co/jrSygVb/logocompleta.jpg" alt="Logo Completa" style="width: 100%;">
-</p>
-
 # CaioMCancela Developer
 Bem-vindo ao repositório do meu site pessoal! Este projeto é uma expressão do meu trabalho como desenvolvedor web e uma janela para quem sou eu e meu portfólio de projetos.
 
